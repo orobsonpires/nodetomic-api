@@ -1,7 +1,7 @@
 import path from 'path';
 
-const APP_NAME = `your-app-name`;
-const DB_NAME = `your-app-name-dev`;
+const APP_NAME = `harpia`;
+const DB_NAME = `harpia`;
 const CLIENT = '/client';
 
 export default {
